@@ -16,14 +16,14 @@ This is to grasp rapidly the language and its concepts.
 #### Topics
 ```
 R Tutorial
-[ ] Home
-[ ] Overview
-[ ] Environment Setup
-[ ] Basic Syntax
-[ ] Data Types
-[ ] Variables
-[ ] Operators
-[ ] Decision Making
+[x] Home
+[x] Overview
+[x] Environment Setup
+[x] Basic Syntax
+[x] Data Types
+[x] Variables
+[x] Operators
+[x] Decision Making
 [ ] Loops
 [ ] Functions
 [ ] Strings
