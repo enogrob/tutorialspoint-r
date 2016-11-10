@@ -24,17 +24,17 @@ R Tutorial
 [x] Variables
 [x] Operators
 [x] Decision Making
-[ ] Loops
-[ ] Functions
-[ ] Strings
-[ ] Vectors
-[ ] Lists
-[ ] Matrices
-[ ] Arrays
-[ ] Factors
-[ ] Data Frames
-[ ] Packages
-[ ] Data Reshaping
+[x] Loops
+[x] Functions
+[x] Strings
+[x] Vectors
+[x] Lists
+[x] Matrices
+[x] Arrays
+[x] Factors
+[x] Data Frames
+[x] Packages
+[x] Data Reshaping
 R Data Interfaces
 [ ] CSV Files
 [ ] Excel Files
@@ -51,7 +51,7 @@ R Charts & Graphs
 [ ] Line Graphs
 [ ] Scatterplots
 R Statistics Examples
-[ ] Mean, Median & Mode
+[x] Mean, Median & Mode
 [ ] Linear Regression
 [ ] Multiple Regression
 [ ] Logistic Regression
