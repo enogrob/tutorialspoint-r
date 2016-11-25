@@ -37,7 +37,7 @@ R Tutorial
 [x] Data Reshaping
 R Data Interfaces
 [x] CSV Files
-[ ] Excel Files
+[x] Excel Files
 [ ] Binary Files
 [ ] XML Files
 [ ] JSON Files
