@@ -38,8 +38,8 @@ R Tutorial
 R Data Interfaces
 [x] CSV Files
 [x] Excel Files
-[ ] Binary Files
-[ ] XML Files
+[x] Binary Files
+[x] XML Files
 [ ] JSON Files
 [ ] Web Data
 [ ] Database
