@@ -40,8 +40,8 @@ R Data Interfaces
 [x] Excel Files
 [x] Binary Files
 [x] XML Files
-[ ] JSON Files
-[ ] Web Data
+[x] JSON Files
+[x] Web Data
 [ ] Database
 R Charts & Graphs
 [ ] Pie Charts
