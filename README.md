@@ -42,11 +42,11 @@ R Data Interfaces
 [x] XML Files
 [x] JSON Files
 [x] Web Data
-[ ] Database
+[x] Database
 R Charts & Graphs
-[ ] Pie Charts
-[ ] Bar Charts
-[ ] Boxplots
+[x] Pie Charts
+[x] Bar Charts
+[x] Boxplots
 [ ] Histograms
 [ ] Line Graphs
 [ ] Scatterplots
