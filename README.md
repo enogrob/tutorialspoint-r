@@ -47,11 +47,11 @@ R Charts & Graphs
 [x] Pie Charts
 [x] Bar Charts
 [x] Boxplots
-[ ] Histograms
-[ ] Line Graphs
-[ ] Scatterplots
+[x] Histograms
+[x] Line Graphs
+[x] Scatterplots
 R Statistics Examples
-[x] Mean, Median & Mode
+[ ] Mean, Median & Mode
 [ ] Linear Regression
 [ ] Multiple Regression
 [ ] Logistic Regression
