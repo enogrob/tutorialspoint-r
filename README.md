@@ -51,7 +51,7 @@ R Charts & Graphs
 [x] Line Graphs
 [x] Scatterplots
 R Statistics Examples
-[ ] Mean, Median & Mode
+[x] Mean, Median & Mode
 [ ] Linear Regression
 [ ] Multiple Regression
 [ ] Logistic Regression
@@ -78,4 +78,3 @@ Selected Reading
 [ ] Computer Glossary
 [ ] Who is Who
 ```
-
