@@ -52,7 +52,7 @@ R Charts & Graphs
 [x] Scatterplots
 R Statistics Examples
 [x] Mean, Median & Mode
-[ ] Linear Regression
+[x] Linear Regression
 [ ] Multiple Regression
 [ ] Logistic Regression
 [ ] Normal Distribution
