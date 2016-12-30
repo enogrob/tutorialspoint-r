@@ -53,7 +53,7 @@ R Charts & Graphs
 R Statistics Examples
 [x] Mean, Median & Mode
 [x] Linear Regression
-[ ] Multiple Regression
+[x] Multiple Regression
 [ ] Logistic Regression
 [ ] Normal Distribution
 [ ] Binomial Distribution
