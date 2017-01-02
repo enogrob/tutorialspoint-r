@@ -54,7 +54,7 @@ R Statistics Examples
 [x] Mean, Median & Mode
 [x] Linear Regression
 [x] Multiple Regression
-[ ] Logistic Regression
+[x] Logistic Regression
 [ ] Normal Distribution
 [ ] Binomial Distribution
 [ ] Poisson Regression
