@@ -55,7 +55,7 @@ R Statistics Examples
 [x] Linear Regression
 [x] Multiple Regression
 [x] Logistic Regression
-[ ] Normal Distribution
+[x] Normal Distribution
 [ ] Binomial Distribution
 [ ] Poisson Regression
 [ ] Analysis of Covariance
